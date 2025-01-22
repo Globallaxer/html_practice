@@ -11,7 +11,7 @@ p{
     text-decoration: underline;
 }
 .bombom{
-    font-family: Comic Sans;
+    font-family: "Comic Sans";
     font-size: 25pt;
     text-indent: 50px;
 }
@@ -23,7 +23,7 @@ p{
     line-height: 25pt;
 }
 .perenos{
-    white-space: 1;
+    white-space: nowrap;
 
 }
 .red{
@@ -38,6 +38,31 @@ p{
     text-transform: uppercase;
     text-decoration: underline;
     letter-spacing: 200%;
-    text-indent: 10;
+    text-indent: 2%;
+    line-height: 200%;
+
+
+
+}
+
+.sc{
+    font-family:"Times New Roman";
+    font-size: 14px;
+    word-spacing: 2px;
+    letter-spacing: 25px;
+
+
+}
+.beans{
+    white-space: nowrap;
+    color: brown;
+    text-transform: lowercase;
+
+}
+.link{
+    color: blueviolet;
+    font-family: Verdana;
+    background-color: rgb(249, 219,211);
+
 
 }
