@@ -1,0 +1,33 @@
+body{
+
+text-align: center;
+}
+
+
+table{
+    border-collapse:collapse ;
+    border-width: 2 px;
+    border-style: outset;
+    border-color:grey;
+    
+
+}
+td{
+    border-collapse:collapse ;
+    border-width: 2 px;
+    border-style: outset;
+}
+th{
+    border-collapse:collapse ;
+    border-width: 2 px;
+    border-style: outset;
+    border-color:grey ;
+    background-color: rgb(202, 199, 199);
+}
+.red{
+    color: red;
+    font-weight: bold;
+   
+    
+
+}
